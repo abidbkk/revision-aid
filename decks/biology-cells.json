@@ -1,0 +1,11 @@
+{
+  "title": "Cell structure",
+  "cards": [
+    { "q": "What is the function of the nucleus?", "a": "Contains genetic material (DNA) and controls the activities of the cell." },
+    { "q": "Where does aerobic respiration take place?", "a": "In the mitochondria." },
+    { "q": "Name two structures found in plant cells but not animal cells.", "a": "Any two of: cell wall, chloroplasts, permanent vacuole." },
+    { "q": "What is the cell wall made of in plants?", "a": "Cellulose." },
+    { "q": "What is the function of ribosomes?", "a": "Protein synthesis." },
+    { "q": "How does a prokaryotic cell store its DNA?", "a": "As a single loop in the cytoplasm (not in a nucleus), plus small rings called plasmids." }
+  ]
+}
